@@ -39,3 +39,5 @@ Contributions are welcome! If you'd like to add more Pokémon entries or improve
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Contact
+Feel free to contact me at my website: https://stately-dango-51a8a8.netlify.app/ 
