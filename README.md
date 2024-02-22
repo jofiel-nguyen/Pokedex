@@ -25,7 +25,7 @@ Welcome to the Pokédex project! This is a simple HTML/CSS project that showcase
 
 ## Screenshots
 
-![Pokédex Screenshot](./assets/screenshot.png)
+![Pokédex Screenshot](./assets/screenshot.png)(https://jofiel-nguyen.github.io/Pokedex/)
 
 ## Contributing
 
